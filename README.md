@@ -1,2 +1,4 @@
 # js-clock
-JS Clock 
+JS Clock
+
+Javascript 30 - Day 2
